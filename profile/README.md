@@ -1,4 +1,4 @@
-## 為言說而生
+##為言說而生
 
 在資源匱乏的邊緣，尋找計算與意義的極大值。
 
@@ -10,15 +10,23 @@
 
 ---
 
-数台のワークステーションとひとりのボスからなる、超小規模スタジオです。超小型・特化型言語モデル、非構造化データの秩序再構築、そして大きなモデルが見向きもしないエッジケースに取り組んでいます。
+At the edge of resource scarcity, we seek the global maxima of computation and meaning.
 
-私たちの Rust コードには、時々コメントの形をした詩が生えてきます——それはバグではなく、feature です。
+We are a micro-studio: a few workstations and one stubborn founder. We focus on hyper-specific micro-SLMs, the architectural reconstruction of unstructured data, and the edge cases the giant models are too bloated to care about.
+
+Our Rust code occasionally sprouts poetry in the comments. That's not a bug. It's a feature.
+
+Born to articulate — in the face of impossible requirements, we stand as technical Wallbreakers. Treating towering obstacles as nothing, we forge ahead at the pace of survivalist, constraint-driven development.
 
 ---
 
-A tiny studio — a few workstations and one stubborn founder. We build micro-SLMs for edge cases the big models won't touch, and wrestle order from unstructured data that standard pipelines choke on.
+資源が枯渇する境界線で、計算と意味の極大値を探求する。
 
-Our Rust code occasionally sprouts poetry in the comments. That's not a bug. It's a feature.
+私たちは数台のワークステーションと一人のボスからなる超小規模スタジオです。超小型・特化型言語モデル（SLM）、非構造化データの秩序再構築、そして巨大モデルが見向きもしないエッジケースに注力しています。
+
+私たちの Rust コードには、時折コメントの形で詩が生えてきます——それはバグではなく、仕様（feature）です。
+
+語るために生まれた——実現不可能に思える特殊な要件に直面したとき、私たちは技術の「壁を破る者（Wallbreaker）」として立ち上がる。高くそびえる障壁を無と見なし、制約の中で生き残るための開発の歩みをひたすらに進める。
 
 ---
 
